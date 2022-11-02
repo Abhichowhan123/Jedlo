@@ -1,0 +1,6 @@
+{
+	"db_host": "localhost",
+	"db_name": "jedlo",
+	"db_username": "root",
+	"db_password": ""
+}
